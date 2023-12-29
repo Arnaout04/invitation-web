@@ -82,12 +82,12 @@ footer > p {
         text-align: justify;
     }
 
-    #container > h1  {
-        font-size: 20px;
+    #one > h1  {
+        font-size: 30px;
     }
 
-    #container > p  {
-        font-size: 10px;
+    #one > p  {
+        font-size: 20px;
     }
 
     #container > h1, p {
